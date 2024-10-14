@@ -1,1 +1,1 @@
-console.log("webfloww is godd")
+console.log("webfloww is goood")
