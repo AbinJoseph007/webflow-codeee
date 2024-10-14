@@ -1,1 +1,1 @@
-console.log("make it possible ok good")
+console.log("make it possible ok")
